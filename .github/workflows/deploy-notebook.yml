@@ -242,7 +242,6 @@ jobs:
     
     - name: Done
       run: |
-        echo "¡Despliegue completado exitosamente!"
         echo ""
         echo "Resumen:"
         echo "Notebooks desplegados: ntbk_1, ntbk_2"
@@ -252,4 +251,3 @@ jobs:
         echo "   - tarea2_notebook2 (ntbk_2)"
         echo "Cluster: Serverless configurado"
         echo ""
-        echo "Accede a tu workspace de Databricks para ver el workflow en la sección 'Workflows'"

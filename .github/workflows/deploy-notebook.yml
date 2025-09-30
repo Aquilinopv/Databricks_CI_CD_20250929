@@ -250,7 +250,7 @@ jobs:
     
     - name: Done
       run: |
-        echo "🎉 ¡Despliegue completado exitosamente!"
+        echo "🎉 ¡Despliegue completado exitosamente!" 
         echo ""
         echo "Resumen:"
         echo "Notebooks desplegados: ntbk_1, ntbk_2"
